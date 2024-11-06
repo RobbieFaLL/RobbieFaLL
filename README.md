@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobbieFaLL
 - 👀 I’m interested in Cycling, web and software development (all things computers)
-- 🌱 I’m currently learning Django, Nginx, Docker, HTML/CSS, Javascript
+- 🌱 I’m currently learning Django, Nginx, Docker, HTML/CSS, Javascript, Python
 
 
 <!---
