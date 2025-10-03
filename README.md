@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobbieFaLL
 - 👀 I’m interested in Cycling, web and software development (all things computers)
-- 🌱 I have Learnt The Django web framework to a good level, now diversifying by learning the PHP Laravel framework on my work placement
+- 🌱 I have Learnt The Django web framework to a good level, and have done some work on PHP and the Laravel frameworl
 
 
 <!---
