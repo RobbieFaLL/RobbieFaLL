@@ -46,7 +46,7 @@ _Updated automatically by GitHub Actions._
 The technologies I use most often include:
 
 - **Django** and **Django REST Framework** for backend applications and APIs
-- **Flask** for lightweight Python web applications
+- **Flask** for a small sub-page within the Robert Fall website
 - **React** and **Next.js** for interactive frontend applications
 - **Tailwind CSS** for responsive styling
 - **Vite** as a frontend build tool and development server
@@ -64,19 +64,22 @@ reports languages, not frameworks.
 
 | Framework | Approximate project share |
 | --- | ---: |
-| Django / Django REST Framework | 50% |
-| React | 18% |
-| Flask | 9% |
-| Next.js | 9% |
-| Tailwind CSS | 9% |
+| Django / Django REST Framework | 65% |
+| React | 15% |
+| Next.js | 10% |
+| Tailwind CSS | 8% |
+| Flask | 2% |
 
 ```text
-Django / DRF    █████████████████████████ 50%
-React           █████████                 18%
-Flask           █████                      9%
-Next.js         █████                      9%
-Tailwind CSS    █████                      9%
+Django / DRF    █████████████████████████████████ 65%
+React           ████████                          15%
+Next.js         █████                             10%
+Tailwind CSS    ████                                8%
+Flask           █                                   2%
 ```
+
+Flask is used only for a small sub-page of the Robert Fall website, so it is
+shown as a small share rather than a major framework focus.
 
 ## Currently learning
 
