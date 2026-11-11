@@ -50,7 +50,8 @@ The technologies I use most often include:
 - **React** and **Next.js** for interactive frontend applications
 - **Tailwind CSS** for responsive styling
 - **Vite** as a frontend build tool and development server
-- **SQLite** and relational database concepts
+- **PostgreSQL** in Robbie Fall Cycles, alongside SQLite and other relational
+  database concepts
 - **Git and GitHub** for version control and collaboration
 
 ### Approximate framework focus
